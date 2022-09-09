@@ -10,8 +10,8 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 ## Student Info - MUST BE COMPLETED
 
-Preferred Name:
+Preferred Name: Joel luna
 
-Discord username:
+Discord username: JoLu
 
-REPL url:
+REPL url: https://replit.com/join/gtwpiugebf-joelluna2
