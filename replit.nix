@@ -1,6 +1,7 @@
 { pkgs }: {
 	deps = [
-		pkgs.bashInteractive
+		pkgs.imagemagick6_light
+  pkgs.bashInteractive
 		pkgs.python39Full
 	];
 }
