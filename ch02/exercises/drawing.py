@@ -1,6 +1,15 @@
 import turtle
 
-my_turtle = turtle.Turtle()
+koopa = turtle.Turtle()
+koopa.shape("turtle")
+window = turtle.Screen()
 
-from turtle import Turtle
-my_turtle = Turtle()
+side = int(input("Type # of side(s)"))
+length = int(input("Type # of length(s)"))
+
+for m in range(4):
+  koopa.forward(side)
+  koopa.right(90)
+  koopa.forward(length)
+  koopa.right(90)
+window.exitonclick()
