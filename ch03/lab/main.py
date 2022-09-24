@@ -5,6 +5,9 @@ import random
 window = turtle.Screen() # 2.  Create a screen
 window.bgcolor('lightblue')
 
+finishline = 200
+move = random()
+
 michelangelo = turtle.Turtle() # 3.  Create two turtles
 leonardo = turtle.Turtle()
 michelangelo.color('orange')
@@ -18,8 +21,8 @@ michelangelo.goto(-100,20)
 leonardo.goto(-100,-20)
 
 ## 5. Your PART A code goes here
-
-
+leonardo(move)
+michelangelo(move)
 # PART B - complete part B here
 
 
