@@ -22,4 +22,5 @@ def sequence(n):
       pygame.quit()
 
 sequence(n)
-#PartB
+
+#PartBT)TTHT HTEJHT
