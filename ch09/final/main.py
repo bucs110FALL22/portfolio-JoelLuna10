@@ -16,6 +16,7 @@ def main():
       catbapi = catboyAPI.catboyAPI()
       results = catbapi.get()
       print(results)
+    #if neither cat anf catboy are typed then it returns nothing
     else:
       None
 
